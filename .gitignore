@@ -1,0 +1,13 @@
+# node & npm
+node_modules
+node_modules/
+
+.DS_Store
+*.log
+.idea
+.vscode
+.cache
+/dev
+/output
+package-lock.json
+!dist
